@@ -95,3 +95,7 @@ input[type=search]::-webkit-search-cancel-button {
 .search-results .item p .searchmatch {
   font-weight: bold;
 }
+
+.random-art {
+  margin-bottom: 15px;
+}
